@@ -1,0 +1,3 @@
+Como eles estão percorrendo o mesmo trajeto quando se cruzarem estarão a mesma distância de Ribeirão Preto. Já que eles estarão no mesmo local e a referência é a mesma.
+
+Como o carro possui uma velocidade superior e o caminhão possui 10 minutos de atraso por conta do pedagio, evidentemente o carro determinará a cidade mais perto, sendo Franca, a resposta.

@@ -1,0 +1,1 @@
+Ao final da iteração a variável SOMA terá o valor 13.
